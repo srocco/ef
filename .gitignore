@@ -3,3 +3,6 @@
 ################################################################################
 
 /PoC.EF.TableSplitting/packages
+/PoC.EF.TableSplitting/PoC.EF.TableSplitting/bin/Debug
+/PoC.EF.TableSplitting/PoC.EF.TableSplitting/obj/Debug
+*.suo
